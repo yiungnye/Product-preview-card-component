@@ -24,8 +24,9 @@ body {
 .card .product-img {
   width: 100%;
   min-height: 240px;
-  background-image: url(./images/image-product-mobile.jpg);
+  background-image: url(https://www.myphotosforever.co.uk/wp-content/uploads/2020/11/product-shoot-of-perfume-768x1024.jpg);
   background-size: cover;
+  background-position-y: 50%;
 }
 .card .content {
   padding: 24px;
@@ -104,7 +105,7 @@ body {
     width: 600px;
   }
   .product-img {
-    background-image: url(./images/image-product-desktop.jpg) !important;
+    background-image: url(https://www.myphotosforever.co.uk/wp-content/uploads/2020/11/product-shoot-of-perfume-768x1024.jpg) !important;
   }
   .content {
     padding: 32px !important;
